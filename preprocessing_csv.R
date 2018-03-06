@@ -1,11 +1,6 @@
 #################################################
-#  Company    : Stevens 
-#  Project    : Assignment 2 
-#  Purpose    : Solution for Assignment 2
 #  First Name : Sayan
 #  Last Name  : Mukherjee
-#  Id			    : 10430998
-#  Date       : 03/05/2018
 #  Comments   :
 
 rm(list=ls())
